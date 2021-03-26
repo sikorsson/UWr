@@ -1,2 +1,3 @@
-Wszystkie zadania poza: l3z8 i l12z20 zostały ocenione maksymalnie.
-Pozostałe dwa otrzymały 1/2 pkt, a komentarz zwrotny jest w pliku z rozwiązaniem danego zadania.
+All solutions, except: l3z8 i l12z20 were graded max.
+
+The other two received 1/2 points. Their feedback is in file with solution of the task.
