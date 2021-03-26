@@ -1,0 +1,8 @@
+.root {
+    -fx-font-family: Arial;
+    -fx-font-weight: 500;
+    -fx-font-size: 12px;
+    -fx-text-fill: black;
+    -fx-start-margin: 0;
+    -fx-end-margin: 5;
+}
