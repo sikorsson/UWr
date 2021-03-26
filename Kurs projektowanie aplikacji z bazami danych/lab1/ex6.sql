@@ -1,0 +1,2 @@
+ALTER TABLE SalesLT.Customer
+ADD CreditCardNumber VARCHAR(16) NOT NULL DEFAULT '0000000000000000' CHECK(CreditCardNumber LIKE '%[0-9]%')
