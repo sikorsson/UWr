@@ -1,1 +1,1 @@
-There are some of my education materials. Feel free to use them, but I urge you to do it on your own.
+There are some of my education materials. I urge you to do it on your own.
