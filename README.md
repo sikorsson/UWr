@@ -1,1 +1,1 @@
-There are some of my education materials. I urge you to do it on your own.
+There are some of my education materials. If you are a student looking for solutions, I urge you to do it on your own.
