@@ -1,0 +1,11 @@
+C:\Users\Pavel\RiderProjects\Projekt2\Smash TV\bin\Debug\Smash_TV.exe.config
+C:\Users\Pavel\RiderProjects\Projekt2\Smash TV\bin\Debug\Smash_TV.exe
+C:\Users\Pavel\RiderProjects\Projekt2\Smash TV\bin\Debug\Smash_TV.pdb
+C:\Users\Pavel\RiderProjects\Projekt2\Smash TV\obj\Debug\Smash TV.csprojAssemblyReference.cache
+C:\Users\Pavel\RiderProjects\Projekt2\Smash TV\obj\Debug\Smash_TV.Properties.Resources.resources
+C:\Users\Pavel\RiderProjects\Projekt2\Smash TV\obj\Debug\Smash TV.csproj.GenerateResource.cache
+C:\Users\Pavel\RiderProjects\Projekt2\Smash TV\obj\Debug\Smash TV.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\RiderProjects\Projekt2\Smash TV\obj\Debug\Smash_TV.exe
+C:\Users\Pavel\RiderProjects\Projekt2\Smash TV\obj\Debug\Smash_TV.pdb
+C:\Users\Pavel\RiderProjects\Projekt2\Smash TV\obj\Debug\Smash_TV.Form1.resources
+C:\Users\Pavel\RiderProjects\Projekt2\Smash TV\bin\Debug\Smash TV.xml
